@@ -34,8 +34,8 @@
 ---
 <br />
 
-<img alt="dfalis's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dfalis&show_icons=true&hide_border=true" />
+<img align="left" alt="dfalis's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dfalis&show_icons=true&hide_border=true" />
 
 <br />
 
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dfalis&hide_border=true" />
+<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dfalis&hide_border=true" />
