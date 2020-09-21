@@ -3,11 +3,9 @@
 ![living](https://img.shields.io/badge/living-Slovakia-3c9)
 ![mark](https://img.shields.io/badge/code%20quality-A%20for%20effort-brightgreen)
 
-## Hi there, I'm Dominik - aka [PiPo] 👋
+## Hi, I'm Dominik aka PiPo
 - 💻 I'm a Student, Developer
 - 🌱 Currently learning everything 🤣
-
-<br />
 
 <h3>Things I code with</h3>
 <p>
@@ -27,15 +25,10 @@
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
 
-<br />
-
 ## :zap: Github Stats
-
----
-<br />
 
 <img align="left" alt="dfalis's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dfalis&show_icons=true&hide_border=true" />
 
 <br />
 
-<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dfalis&hide_border=true" />
+<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dfalis&hide_border=true" />
