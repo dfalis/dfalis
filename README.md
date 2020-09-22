@@ -23,6 +23,8 @@
   <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white"/>
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img alt=".NET" src="https://img.shields.io/badge/-.NET-4479A1?style=flat-square&logo=.NET&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/-Clang-4479A1?style=flat-square&logo=C&logoColor=white"/>
 </p>
 
 <br />
