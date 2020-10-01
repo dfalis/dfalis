@@ -2,10 +2,11 @@
 ![focus](https://img.shields.io/badge/focus-backend-red)
 ![living](https://img.shields.io/badge/living-Slovakia-3c9)
 ![mark](https://img.shields.io/badge/code%20quality-A%20for%20effort-brightgreen)
+![](https://komarev.com/ghpvc/?username=dfalis&color=orange)
 
 ## Hi, I'm Dominik aka PiPo
-- 💻 I'm a Student, Developer
-- 🌱 Currently learning everything 🤣
+- 🎓 I'm a Student, Developer
+- 📚 Currently learning everything 🤣
 
 <h3>Things I code with</h3>
 <p>
@@ -25,6 +26,7 @@
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img alt=".NET" src="https://img.shields.io/badge/-.NET-4479A1?style=flat-square&logo=.NET&logoColor=white"/>
   <img alt="C" src="https://img.shields.io/badge/-Clang-4479A1?style=flat-square&logo=C&logoColor=white"/>
+  <img alt="Bash" src="https://img.shields.io/badge/-Bash-4479A1?style=flat-square&logo=GNU%20Bash&logoColor=white"/>
 </p>
 
 <br />
