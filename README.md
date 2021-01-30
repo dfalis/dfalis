@@ -27,6 +27,8 @@
   <img alt=".NET" src="https://img.shields.io/badge/-.NET-4479A1?style=flat-square&logo=.NET&logoColor=white"/>
   <img alt="C" src="https://img.shields.io/badge/-Clang-4479A1?style=flat-square&logo=C&logoColor=white"/>
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-4479A1?style=flat-square&logo=GNU%20Bash&logoColor=white"/>
+  <img alt="Arch" src="https://img.shields.io/badge/-Arch-1793D1?style=flat-square&logo=Arch%20Linux&logoColor=white"/>
+  <img alt="Raspberry pi" src="https://img.shields.io/badge/-Raspberry%20pi-C51A4A?style=flat-square&logo=Raspberry%20Pi&logoColor=white"/>
 </p>
 
 <br />
