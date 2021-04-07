@@ -4,7 +4,7 @@
 ![mark](https://img.shields.io/badge/code%20quality-A%20for%20effort-brightgreen)
 ![](https://komarev.com/ghpvc/?username=dfalis&color=orange)
 
-## Hi, I'm Dominik aka PiPo
+## Hi, I'm Dominik
 - 🎓 I'm a Student, Developer
 - 📚 Currently learning everything 🤣
 
