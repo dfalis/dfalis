@@ -39,4 +39,4 @@
 
 <br />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfalis&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfalis&card_width=300" />
