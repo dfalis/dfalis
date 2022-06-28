@@ -1,4 +1,4 @@
-![age](https://img.shields.io/badge/age-20-blue)
+![age](https://img.shields.io/badge/age-22-blue)
 ![focus](https://img.shields.io/badge/focus-backend-red)
 ![living](https://img.shields.io/badge/living-Slovakia-3c9)
 ![mark](https://img.shields.io/badge/code%20quality-A%20for%20effort-brightgreen)
